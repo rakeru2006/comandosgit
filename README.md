@@ -56,3 +56,9 @@ git remote otra vez
 git clone otra vez
 rm -r .git
 rm -r folder
+
+Para generar una nieva llave en MAC 
+
+Ahora, para generar la llave agregá lo siguiente
+
+$ ssh-keygen -t rsa
